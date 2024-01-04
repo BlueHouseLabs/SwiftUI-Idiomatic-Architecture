@@ -25,7 +25,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(path: "../BespokeTesting")
+        .package(url: "https://github.com/BlueHouseLabs/BespokeTesting.git", from: "0.5.0"),
     ],
     targets: [
         // Targets are the basic building blocks of a package, defining a module or a test suite.

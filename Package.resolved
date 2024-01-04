@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "bespoketesting",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/BlueHouseLabs/BespokeTesting.git",
+      "state" : {
+        "revision" : "0c0a17166672101f28938d2083741294d202cf87",
+        "version" : "0.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
